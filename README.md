@@ -90,6 +90,8 @@ Este código contiene algunos bugs:
 3.	No se debe cortar la parte superior de la tabla ni su contenido, el código toma por predeterminado que estos datos están en el mismo orden siempre (por defecto es así). De lo contrario pueden haber errores de desbordamiento de memoria o datos mal exportados.
 4.	No tiene en cuenta los años bisiestos, por tanto los datos del 29 de febrero donde cumple esta característica no lo guarda, este error por experiencia no lo considero necesario. 
 5.	La interpretación de los datos no son mi responsabilidad, es directamente parte del usuario del código.
-Contacto: 
+
+Contacto:
+
 Whatsapp: +57 3203633542
 Facebook: https://www.facebook.com/parracuesta 
