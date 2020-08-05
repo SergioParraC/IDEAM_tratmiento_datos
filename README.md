@@ -77,11 +77,12 @@ Convierte archivos en forma de tabla que da el IDEAM al solicitarlos por la pág
 
 Este ejemplo aplica para cualquier variable que este código pueda hacer (Ver Advertencias). Para poder ejecutar este código es necesario seguir los siguientes pasos:
 
-1.	Verificar si las variables son continuas, para evitar conflictos entre archivos si se tienen estaciones con variables de distintos años por el documento.
-2.	En la primera línea poner un punto (.) con un salto de línea y poner el formato del archivo dado como .txt.
-3.	En la línea 48 ingresar el nombre del archivo con su formato, este debe estar contenido en la misma carpeta (esto se arreglara en futuras versiones).
-4.	Tener creadas las carpetas en donde se exportan las variables (esto se arreglará en otras versiones).
-5.	Ejecutar el código.
+1.	Tener instalado Python 3.x instalado en su ordenador.
+2. Verificar si las variables son continuas, para evitar conflictos entre archivos si se tienen estaciones con variables de distintos años por el documento.
+3.	En la primera línea poner un punto (.) con un salto de línea y poner el formato del archivo dado como .txt (por defecto esta como "test.txt").
+4.	En la línea 48 ingresar el nombre del archivo con su formato, este debe estar contenido en la misma carpeta (esto se arreglara en futuras versiones).
+5.	Tener creadas las carpetas en donde se exportarán las variables (esto se arreglará en otras versiones).
+6.	Ejecutar el código.
 
                                                                         ADVERTENCIA
                                                                         
