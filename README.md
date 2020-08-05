@@ -64,11 +64,11 @@ Convierte archivos en forma de tabla que da el IDEAM al solicitarlos por la pág
            30          .0                .0                .0                                  .0       .0       .0     20.3
            31          .0                .0                .0                                           .0                .0
 
- TOTAL                73.0     49.0    110.0    190.3 8  195.0    109.5 8   59.2 8   68.3 8  158.0    350.0     82.0    109.6
- No DE DIAS LLUVIA       3        2        7                 7                                   6       11        5        7
- MAXIMA EN 24 Hrs     37.0     45.0     67.0              45.0                                40.0     89.0     50.3     46.5
+    TOTAL                73.0     49.0    110.0    190.3 8  195.0    109.5 8   59.2 8   68.3 8  158.0    350.0     82.0    109.6
+    No DE DIAS LLUVIA       3        2        7                 7                                   6       11        5        7
+    MAXIMA EN 24 Hrs     37.0     45.0     67.0              45.0                                40.0     89.0     50.3     46.5
 
- ** DATOS PRELIMINARES **              ***  VALORES  ANUALES  ***                                           ** ORIGENES DE DATO **
+    DATOS PRELIMINARES **              ***  VALORES  ANUALES  ***                                           ** ORIGENES DE DATO **
 
                                      TOTAL                  1553.9                                         8 : EST.  OTROS METODOS
                                      No DE DIAS LLUVIA          48
